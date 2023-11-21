@@ -9,7 +9,7 @@ public class WeatherDisplayManager : MonoBehaviour
 {
     public static WeatherDisplayManager Instance;
     public TextMeshProUGUI locationText; // Assign this in the inspector
-    private string googleApiKey = "AIzaSyDvCuA0WB-KoNC5QOrQsZde6tQcQFmaGu0";
+    private string googleApiKey = "GOOGLE API KEY";
     private void Awake() {
         if (Instance != null && Instance != this) {
             Destroy(gameObject);
