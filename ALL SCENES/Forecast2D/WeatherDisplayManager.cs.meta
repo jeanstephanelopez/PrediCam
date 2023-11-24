@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ef4c5d3acb2e1b34f9a280093dfac0c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hourlyTilePrefab: {fileID: 8093471230295796472, guid: 8beb5028f2e140043a016d0de8407d19, type: 3}
+  - contentParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
